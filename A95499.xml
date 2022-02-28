@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The passage of the treatie for the surrender of Oxford to Sir Thomas Fairfax. And a list of the names of the commissioners on both sides, both upon the former and later treaties, and how farre they have proceeded in the same for the delivering up of Oxford. Also the copie of a summons sent into Hartlebury Castle by Colonel Morgan and Colonel Sandys his answer. These being examined by the originall copies, are printed and published according to order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95499</idno>
+            <idno type="STC">Wing T36</idno>
+            <idno type="STC">Thomason E337_30</idno>
+            <idno type="STC">ESTC R200833</idno>
+            <idno type="EEBO-CITATION">99861466</idno>
+            <idno type="PROQUEST">99861466</idno>
+            <idno type="VID">159703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95499)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159703)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The passage of the treatie for the surrender of Oxford to Sir Thomas Fairfax. And a list of the names of the commissioners on both sides, both upon the former and later treaties, and how farre they have proceeded in the same for the delivering up of Oxford. Also the copie of a summons sent into Hartlebury Castle by Colonel Morgan and Colonel Sandys his answer. These being examined by the originall copies, are printed and published according to order of Parliament.</title>
+                  <author>N. T.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Elizabeth Purslow,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>May 20. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of four documents, the first of which is a letter signed: N.T.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hartlebury Castle (Hartlebury, England) --  Siege, 1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>Oxford (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159703:1" rendition="simple:additions"/>
+            <p>The paſſage of the TREATIE For the Surrender of OXFORD TO SIR <hi>THOMAS FAIRFAX.</hi>
+            </p>
+            <p>And a LIST of the Names of the Commiſſioners on both ſides, both upon the former and later Treaties, and how farre they have proceeded in the ſame for the de<g ref="char:EOLhyphen"/>livering up of OXFORD.</p>
+            <p>Alſo the Copie of a Summons ſent into <hi>Hartlebury</hi> Caſtle by Colonel <hi>Morgan,</hi> and Colonel <hi>Sandys</hi> his Anſwer.</p>
+            <p>Theſe being examined by the originall Copies, are printed and publiſhed according to Order of Parliament.</p>
+            <p>LONDON: Printed by <hi>Elizabeth Purſlow, May</hi> 20. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159703:2"/>
+            <pb n="1" facs="tcp:159703:2"/>
+            <head>The Copie of a Letter from the Leaguer before OXFORD.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording as it was deſired by Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Glemham,</hi> the Governour of <hi>Oxford,</hi> (as I certified in my laſt, and then ſent you the Generals ſummons, and the An<g ref="char:EOLhyphen"/>ſwer from <hi>Oxford</hi>) Paſſes were granted on Monday laſt, <hi>May</hi> the 11. inſtant, for Sir <hi>John Munſon</hi> and Mr. <hi>Philip Warwick</hi> to come out of <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and to repaire unto us that day, and meet our Commiſſioners at the place agreed, to receive from <hi>Oxford</hi> what they ſhould bring, to be communicated to the Generalls on our ſide; there were Colonell <hi>Rainsborough,</hi> Colonell <hi>Harlow,</hi> and Colonell <hi>Lam<g ref="char:EOLhyphen"/>bert,</hi> who met with Sir <hi>Iohn Munſon</hi> and Mr. <hi>Philip warwick</hi> at the time and place appointed, by whom we underſtood, that (at preſent) it was deſired by the Governour (in the behalfe of himſelfe, with the No<g ref="char:EOLhyphen"/>bility, Gentry, and Inhabitants) that they might have liberty granted to ſend to the King, and to know his Majeſties pleaſure, and upon returne from his Majeſty there ſhould bee a ſpeedy Anſwer given to the Ge<g ref="char:EOLhyphen"/>neralls.</p>
+            <p>Our Commiſſioners acquainted theirs, how vaine a thing it was to deſire any ſuch thing, neither would the Generall admit of any ſuch delayes, and therefore they were deſired to give ſome ſpeedy anſwer, with
+<pb n="2" facs="tcp:159703:3"/>Arguments uſed to them to ſhew them the vanity of their ſtanding out, and how much better it is to take the opportunity whilſt it is offered, leſt by their wil<g ref="char:EOLhyphen"/>full ſtubbornneſſe they bee forced to farre worſer tearmes.</p>
+            <p>But (it ſeemes) that Sir <hi>Iohn Mounſon</hi> and Mr. <hi>War<g ref="char:EOLhyphen"/>wick</hi> were ſo bound up and limited in their Commiſ<g ref="char:EOLhyphen"/>ſions, that they could not give that anſwer to ours which was expected, and therefore promiſed the next day to procure a fuller power, and more ſatisfactory Anſwer, and ſo they returned into <hi>Oxford,</hi> and tooke leave of us that night, and one of the Generals Trum<g ref="char:EOLhyphen"/>peters was appointed to goe into <hi>Oxford</hi> with them that night, and to returne with an anſwer the next morning.</p>
+            <p>On Tueſday, <hi>May</hi> the 12 inſtant, our Trumpeter, re<g ref="char:EOLhyphen"/>turn'd (but not their Cmiſſioners) with a deſire from Sir <hi>Thomas Glemham,</hi> that becauſe there are many of eminencie, Lords, with the Duke of <hi>York,</hi> and the two Princes there, as alſo divers Knights, and <hi>Oxford.</hi> Par<g ref="char:EOLhyphen"/>liament Juncto men, and other Gentry and Clergy, with the Inhabitants, and others that he meanes; hee deſired that the Generall would grant them a longer time, becauſe ſo many were concerned in it, that they could not poſſibly preſent things (in a formidable way) in ſo ſhort a time.</p>
+            <p>So we went on haſting the diſpatch of the Line, and order was given for the drawing up of the Batteries, reſolving to loſe no time, but preparing all we can to aſſault them, and be in a condition to ſtorme if they ſhall not ſurrender; the latter, to ſpare as much blood as may be, being moſt deſired by us, yet confident they will not be advantaged within by delaying us, but
+<pb n="3" facs="tcp:159703:3"/>by thruſting themſelves into harder ſtraits, will bee forced to worſer termes by ſtanding out, if they ſhall be ſo wilfull.</p>
+            <p>On that day Prince <hi>Rupert</hi> and ſome horſe, all under an hundred, came out of <hi>Oxford</hi> to take the ayre, on Colonell <hi>Rainsboroughs</hi> ſide, <hi>Rupert</hi> himſelfe being in his white hoſe, and rid without boots in his ſhooes and ſtockings, a partie of our men marched up very neere them, and had a ſhort skirmiſh, in which it ſo hapned that a bullet from one of our men hit Prince <hi>Rupert,</hi> and wounded him on the right ſhoulder, but we heare that it hath not broke or hurt any bone, be<g ref="char:EOLhyphen"/>ing only a fleſhy wound, and we forced them to re<g ref="char:EOLhyphen"/>treat into <hi>Oxford,</hi> where we heard they were very bu<g ref="char:EOLhyphen"/>ſie that day, and alſo Wedneſday and Thurſday, the Lords debating<g ref="char:punc">▪</g> the Councell of war conſulting, the Iuncto plotting, the Clergy prating, the Towneſmen meeting, and the Sovldiers enquiring what to do, each in their ſeverall capacities labouring in what concer<g ref="char:EOLhyphen"/>ned their own faculties.</p>
+            <p>Yeſterday we received farther from <hi>Oxford,</hi> that the Gover<g ref="char:EOLhyphen"/>nour would treat by Commiſſioners, which was accepted of and a Councell of warre being called, it was concluded that Mr. <hi>Crooks</hi> houſe at <hi>Marſton</hi> where the Generall quartered the laſt year, ſhould be the place, and Monday next the time, and that in the mean time the ſaid Commiſſioners to be nomina<g ref="char:EOLhyphen"/>ted on both ſides which will be done to morrow, concerning which I ſhall certifie you more at large by the next Meſſenger.</p>
+            <p>They fallied out of <hi>Oxford</hi> againe this day, and wee had a ſmall skirmiſh with them, and loſt ſome two men.</p>
+            <p>We have received the Copy of a Summons that was ſent in<g ref="char:EOLhyphen"/>to <hi>Hartlebury</hi> Caſtle by Colonell <hi>Morgan,</hi> with the Gover<g ref="char:EOLhyphen"/>nours Anſwer thereunto, which I have ſent you here incloſed, and reſt</p>
+            <closer>
+               <signed>Your humble ſervant, <hi>N. T.</hi>
+               </signed>
+               <dateline>Dated at the Fort before <hi>Oxford,</hi> 
+                  <date>May 15.1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="military_summons">
+            <pb n="4" facs="tcp:159703:4"/>
+            <head>The Copie of the Summons ſent in<g ref="char:EOLhyphen"/>to <hi>Hartleburie</hi> Caſtle, by Colonel MORGAN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am commanded by the Committee of both King<g ref="char:EOLhyphen"/>domes, to require you immediately to deliver un<g ref="char:EOLhyphen"/>to me, for the uſe of King and Parliament, the Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Hartleburie,</hi> with all the Armes, Ammunition, Artillerie, and all manner of proviſions therein, with<g ref="char:EOLhyphen"/>out any ſpoyle or imbezlement being made thereof, which I conceive you have no reaſon to hold, being out of all hopes of reliefe, and farre ſtronger Garri<g ref="char:EOLhyphen"/>ſons then this Caſtle is, or can be made, are delivered up for the aforeſaid uſe; (witneſſe thoſe two later Garriſons then I ſuppoſe you can know are, <hi>viz. Newarke</hi> and <hi>Banbury</hi>) which if you refuſe to doe, the world will witneſſe againſt you to be the cauſe of the effuſion of all the blood which ſhall be ſpilt in the reducing of this place, and exclude your ſelfe from having ſuch honourable tearmes as you may now re<g ref="char:EOLhyphen"/>ceive from your ſervant,</p>
+            <closer>
+               <signed>Tho. Morgan.</signed>
+               <dateline>Hartleburie, <date>the 9. of <hi>May,</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:159703:4"/>
+            <head>From the Governor of <hi>Hartlebury,</hi> theſe.</head>
+            <head type="sub">The Copy of the Governor of <hi>Har<g ref="char:EOLhyphen"/>tlebury</hi> Caſtle his Anſwer.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have received your Summons, which I muſt pro<g ref="char:EOLhyphen"/>feſſe to be ſent with all civill circumſtances, and therefore have appplied my ſelfe to give you ſuch an Anſwer, as (preſerving my honour and truſt repoſed in me by his Majeſty) may not be altogether unſatis<g ref="char:EOLhyphen"/>fiable to you: I am inclined to beleeve with you, that in caſe <hi>Newarke</hi> be taken, we cannot probably expect reliefe from any place; But (Sir) though I muſt ac<g ref="char:EOLhyphen"/>knowledge you a perſon of honour, yet in regard of the diſtance we now ſtand in, I cannot juſtifie my ſelfe to the world, in taking your report barely: My de<g ref="char:EOLhyphen"/>ſire therefore is, you would but allow me ſo much time as can be but imaginably ſufficient to informe my ſelfe of the certainty thereof, and if I ſhall finde it accordingly, I will forthwith treat with you upon ſuch conditions as may with honour and loyalty bee admitted of by, Sir,</p>
+            <closer>
+               <dateline>Hartlebury Castle <date>the 9. of May, 1646.</date>
+               </dateline>
+               <signed>Your Servant, <hi>WIL. SANDI<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:159703:5"/>
+            <head>For Colonel <hi>Morgan.</hi>
+            </head>
+            <head type="sub">The Copie of a Letter from the Generals Head<g ref="char:punc">▪</g> Quarters, dated <hi>May</hi> 17, at <hi>Heddington.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis day the Governour of <hi>Oxford</hi> ſent forth the names of thoſe perſons whom he hath appoynted to be Commiſſio<g ref="char:EOLhyphen"/>ners to Treat for ſurrender of the Citie, deſiring the like num<g ref="char:EOLhyphen"/>ber of ours might be returned; They are to meet to morrow, or on Tueſday (at fartheſt) at <hi>Marſton,</hi> ſo that I hope a few dayes will produce the ſurrender thereof, and that by Treaty; but if not in caſe they ſhall ſtand upon high tearms, I doubt not but the ſame omnipotent power of God, which hath led us in<g ref="char:EOLhyphen"/>to the Gates of many ſtrong places will aſſiſt us to poſſeſſe this too: After which, if the Northren cloud diſpell, as I hope it will (God willing) I ſhall have opportunitie to ſee you. Sir, I remaine</p>
+            <closer>
+               <dateline>Heddington <date>the 17 of <hi>May,</hi> 1646.</date>
+               </dateline>
+               <signed>Your aſſured ſervant <hi>W. C.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <list>
+                  <head>The Commiſſioners for <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> are.</head>
+                  <item>Sir <hi>John Mounſon.</hi>
+                  </item>
+                  <item>Sir <hi>John Heyden.</hi>
+                  </item>
+                  <item>Sir <hi>Thomas Gardner:</hi>
+                  </item>
+                  <item>Sir <hi>George Bynion.</hi>
+                  </item>
+                  <item>Sir <hi>Richard Willis.</hi>
+                  </item>
+                  <item>Sir <hi>Stephen Hawkins.</hi>
+                  </item>
+                  <item>Colonel <hi>Goſnold.</hi>
+                  </item>
+                  <item>Colonel <hi>Tyllier.</hi>
+                  </item>
+                  <item>Doctor <hi>Zouch.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Chiſley</hi> Eſquire.</item>
+                  <item>M. <hi>John Dutton.</hi>
+                  </item>
+                  <item>M. <hi>Jeffrey Palmer.</hi>
+                  </item>
+                  <item>M. <hi>Philip Warwick.</hi>
+                  </item>
+                  <item>Capt. <hi>Robert Mead.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Commiſſioners for the Par<g ref="char:EOLhyphen"/>liament.</head>
+                  <item>Lieut. Generall <hi>Hammond.</hi>
+                  </item>
+                  <item>Colonel <hi>Ireton.</hi>
+                  </item>
+                  <item>Colonel <hi>Lambert.</hi>
+                  </item>
+                  <item>Colonel <hi>Rich.</hi>
+                  </item>
+                  <item>Colonel <hi>Harley.</hi>
+                  </item>
+                  <item>Scout-maſter Gen. <hi>Watſon.</hi>
+                  </item>
+                  <item>Major <hi>Hariſon.</hi>
+                  </item>
+                  <item>M. <hi>Herbert.</hi>
+                  </item>
+                  <item>M. <hi>Waller.</hi>
+                  </item>
+                  <item>Foure more to be named af<g ref="char:EOLhyphen"/>terwards.</item>
+               </list>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
